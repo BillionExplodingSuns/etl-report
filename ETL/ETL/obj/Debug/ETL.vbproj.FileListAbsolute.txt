@@ -1,0 +1,451 @@
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.exe
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.xml
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.exe
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.xml
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.Office.dll
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\Database1.mdf
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\bin\Debug\Database1_log.ldf
+C:\Users\tgautier\Downloads\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.exe
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.xml
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\Database1.mdf
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\Database1_log.ldf
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.exe
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+K:\Visual Basic\NIAR\ETL\ETL\bin\Debug\ETL.xml
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+K:\Visual Basic\NIAR\ETL\ETL\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.exe
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.xml
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.xml
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1.mdf
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1_log.ldf
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Portal.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.DeleteTestQuote.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+C:\Users\Gautier\Code\Visual Basic\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.exe
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.xml
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1.mdf
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1_log.ldf
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.xml
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.DeleteTestQuote.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Portal.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+D:\NIAR\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.exe
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.xml
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1.mdf
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\Database1_log.ldf
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.xml
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.DeleteTestQuote.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Portal.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+K:\Visual Basic\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.Office.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.Office.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.exe
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.xml
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.exe
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\ETL.xml
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Portal.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\PdfSharp.Charting.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\PdfSharp.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\MigraDoc.Rendering-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\PdfSharp-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\PdfSharp.Charting-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\Visual Basic 2\Visual Basic 1\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\ETL.exe.config
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\Interop.ADODB.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\Interop.Office.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.exe
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.xml
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.pdb
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\ETL.exe
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\ETL.pdb
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\ETL.xml
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\PdfSharp-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\PdfSharp.Charting-WPF.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\PdfSharp-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Equipment.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Main.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Main2.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Portal.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section6.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section7.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section8.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section10.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section11.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section12.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section13.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section14.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section15.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section16.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section17.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section18.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section19.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section20.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section21.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section22.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section23.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section24.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section25.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section26.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Resources.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section4.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section5.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.Section9.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\obj\Debug\ETL.RecordTest2.resources
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabaseDataSet.Designer.vb
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xsc
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xsd
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xss
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabaseDataSet.vb
+C:\Users\rramirez\Downloads\Rueben Trials\NIAR\ETL\ETL\bin\Debug\CentralDatabase.accdb
+F:\ETL\ETL\bin\Debug\ETL.exe.config
+F:\ETL\ETL\obj\Debug\Interop.ADODB.dll
+F:\ETL\ETL\obj\Debug\Interop.Microsoft.Office.Core.dll
+F:\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+F:\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+F:\ETL\ETL\obj\Debug\ETL.exe
+F:\ETL\ETL\obj\Debug\ETL.xml
+F:\ETL\ETL\obj\Debug\ETL.pdb
+G:\Rueben\ETL\ETL\bin\Debug\ETL.exe.config
+G:\Rueben\ETL\ETL\obj\Debug\Interop.ADODB.dll
+G:\Rueben\ETL\ETL\obj\Debug\Interop.Microsoft.Office.Core.dll
+G:\Rueben\ETL\ETL\obj\Debug\Interop.VBIDE.dll
+G:\Rueben\ETL\ETL\obj\Debug\ETL.vbproj.ResolveComReference.cache
+G:\Rueben\ETL\ETL\obj\Debug\ETL.exe
+G:\Rueben\ETL\ETL\obj\Debug\ETL.xml
+G:\Rueben\ETL\ETL\obj\Debug\ETL.pdb
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabase.accdb
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabaseDataSet.Designer.vb
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabaseDataSet.vb
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xsc
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xsd
+G:\Rueben\ETL\ETL\bin\Debug\CentralDatabaseDataSet.xss
+G:\Rueben\ETL\ETL\bin\Debug\ETL.exe
+G:\Rueben\ETL\ETL\bin\Debug\ETL.pdb
+G:\Rueben\ETL\ETL\bin\Debug\ETL.xml
+G:\Rueben\ETL\ETL\bin\Debug\MigraDoc.DocumentObjectModel-WPF.dll
+G:\Rueben\ETL\ETL\bin\Debug\PdfSharp-WPF.dll
+G:\Rueben\ETL\ETL\bin\Debug\PdfSharp.Charting-WPF.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\MigraDoc.Rendering.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\MigraDoc.Rendering-WPF.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\PdfSharp.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\PdfSharp.Charting.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\MigraDoc.DocumentObjectModel-WPF.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\PdfSharp-WPF.resources.dll
+G:\Rueben\ETL\ETL\bin\Debug\de\PdfSharp.Charting-WPF.resources.dll
+G:\Rueben\ETL\ETL\obj\Debug\ETL.vbprojResolveAssemblyReference.cache
+G:\Rueben\ETL\ETL\obj\Debug\ETL.AccessQuote.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.AccessTest.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.AddTestQuote.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.CustomerContact.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Equipment.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Main.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Main2.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.NewVendor.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.NIARContact.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Portal.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.QuoteGenerator.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.RecordTest.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.RecordTest2.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section6.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section7.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section8.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section10.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section11.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section12.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section13.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section14.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section15.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section16.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section17.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section18.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section19.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section20.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section21.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section22.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section23.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section24.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section25.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section26.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Resources.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section4.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section5.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.Section9.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.ViewTestQuote.resources
+G:\Rueben\ETL\ETL\obj\Debug\ETL.vbproj.GenerateResource.Cache

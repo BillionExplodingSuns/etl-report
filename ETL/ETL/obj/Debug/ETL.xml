@@ -1,0 +1,722 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ETL
+</name>
+</assembly>
+<members>
+<member name="T:ETL.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ETL.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ETL.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ETL.My.Resources.Resources.NIAR_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.CustomersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_EDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_FDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_GDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_4DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_5DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_6DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_7DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_8DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_9DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_ExtraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_10DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_11DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_12DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_13DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_14DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_15DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_16DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_17DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_18DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_19DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_20DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_21DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_22DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_23DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_24DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_25DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_26DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Selected_EquipmentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.QuotesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.MechanicalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.ElectricalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.CustomersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_ERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_FRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_GRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_4Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_5Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_6Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_7Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_8Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_9Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_ExtraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_10Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_11Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_12Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_13Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_14Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_15Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_16Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_17Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_18Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_19Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_20Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_21Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_22Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_23Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_24Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_25Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_26Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Selected_EquipmentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.QuotesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.MechanicalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.ElectricalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.CustomersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_ERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_FRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet._D0160_GRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_4RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_5RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_6RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_7RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_8RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_9RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_ExtraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_10RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_11RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_12RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_13RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_14RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_15RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_16RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_17RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_18RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_19RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_20RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_21RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_22RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_23RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_24RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_25RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Equipment_26RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.Selected_EquipmentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.QuotesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.MechanicalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSet.ElectricalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.CustomersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.D0160_ETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.D0160_FTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.D0160_GTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_4TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_5TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_6TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_7TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_8TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_9TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_ExtraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_10TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_11TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_12TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_13TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_14TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_15TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_16TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_17TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_18TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_19TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_20TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_21TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_22TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_23TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_24TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_25TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Equipment_26TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.Selected_EquipmentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.QuotesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.MechanicalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.ElectricalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ETL.CentralDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ETL.CentralDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ETL.CentralDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(ETL.CentralDatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ETL.CentralDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ETL.NewVendor">
+ <summary>
+ Eventually will want to add vendor names/contacts into database
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
